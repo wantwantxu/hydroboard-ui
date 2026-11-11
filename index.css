@@ -1,0 +1,20 @@
+.marker-ship {
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  background: url("/static/img/ship.png") no-repeat;
+}
+
+.marker-ship-warn {
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  background: url("/static/img/ship-warn.png") no-repeat;
+}
+
+.shzd {
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  background: url("/static/img/shzd.png") no-repeat;
+}
